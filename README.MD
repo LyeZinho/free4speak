@@ -1,5 +1,8 @@
 # Free 4 speak
 
+![Stephen hawking astrophysicist](https://github.com/LyeZinho/free4speak/blob/main/src/images/Free4SpeakTEXT.png)
+
+
 What is free for speak?
 free for speak is a project aiming for get capacity of speak
 to people unable to speak.
