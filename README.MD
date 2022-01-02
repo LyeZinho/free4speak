@@ -6,7 +6,7 @@ to people unable to speak.
 People who have diseases like ALS and Dysarthria and other 
 diseases that attack the body preventing them from being able to speak
 
-![Stephen hawking astrophysicist]()
+![Stephen hawking astrophysicist](https://github.com/LyeZinho/free4speak/blob/main/src/images/stephenhawking.png)
 
 How free for speak works 
 the main project is using a system 
