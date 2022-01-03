@@ -25,3 +25,5 @@ while an algorithm transforms words and phrases into voice audio
 
 [Next mind website](https://www.next-mind.com)
 
+
+This project is just a ideia
