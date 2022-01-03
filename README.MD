@@ -15,10 +15,11 @@ diseases that attack the body preventing them from being able to speak
 
 ![Stephen hawking astrophysicist](https://github.com/LyeZinho/free4speak/blob/main/src/images/stephenhawking.png)
 
-How free for speak works 
-the main project is using a system 
-developed with Nextminds equipment to recognize phrases and actions 
-while an algorithm transforms words and phrases into voice audio
+- How free for speak works 
+
+
+the main project is using a system developed with Nextminds equipment
+to recognize phrases and actions while an algorithm transforms words and phrases into voice audio
 
 ![Nextmind](https://github.com/LyeZinho/free4speak/blob/main/src/images/nextminds.png)
 
