@@ -21,6 +21,7 @@ diseases that attack the body preventing them from being able to speak
 the main project is using a system developed with Nextminds equipment
 to recognize phrases and actions while an algorithm transforms words and phrases into voice audio
 using Nextmind equipments with (EEG) neural sensor 
+
 ![Nextmind](https://github.com/LyeZinho/free4speak/blob/main/src/images/nextminds.png)
 
 
