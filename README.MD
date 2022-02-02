@@ -9,8 +9,8 @@
 free for speak is a project aiming for get capacity of speak
 to people unable to speak
 People who have diseases like ALS and Dysarthria and other 
-diseases that attack the body preventing them from being able to speak
-
+diseases that attack the body preventing them from moving and 
+consequently making it impossible for them to communicate
 
 
 ![Stephen hawking astrophysicist](https://github.com/LyeZinho/free4speak/blob/main/src/images/stephenhawking.png)
